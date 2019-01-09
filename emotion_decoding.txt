@@ -1,0 +1,63 @@
+Neutral Pose & Expression: N
+  Neutral - N_N
+Lower Face Action Unit: LFAU
+  Lower Lip Depressor - LFAU_16
+  Lips Part - LFAU_25
+  Jaw Drop - LFAU_26
+  Mouth Stretch - LFAU_27
+  Lip Corner Puller - LFAU_12
+  Left Lip Corner Puller - LFAU_12L
+  Right Lip Corner Puller - LFAU_12R
+  Low Intensity Lip Corner Puller - LFAU_12LW
+  Dimpler - LFAU_14
+  Lip Stretcher - LFAU_20
+  Lip Corner Depressor - LFAU_15
+  Chin Raiser - LFAU_17
+  Lip Funneler - LFAU_22
+  Lip Puckerer - LFAU_18
+  Lip Tightener - LFAU_23
+  Lip Presser - LFAU_24
+  Lip Suck - LFAU_28
+  Upper Lip Raiser - LFAU_10
+  Nose Wrinkler - LFAU_9
+  Cheek Puff - LFAU_34
+Upper Face Action Unit: UFAU
+  Outer Brow Raiser - UFAU_2
+  Brow Lowerer - UFAU_4
+  Inner Brow Raiser - UFAU_1
+  Squint - UFAU_44
+  Eyes Closed - UFAU_43
+Action Unit Combination: CAU
+  Jaw Drop + Low Intensity Lip Corner Puller - CAU_A26A12lw
+  Lip Funneler + Lips Part - CAU_A22A25
+  Lip Corner Puller + Lip Corner Depressor - CAU_A12A15
+Emotional Expression: E
+  Happiness - E_HAPPY
+  Surprise - E_SURPRISE
+  Fear - E_FEAR
+  Sadness - E_SADNESS
+  Anger - E_ANGER
+  Disgust - E_DISGUST
+Yaw Rotation: YR
+  Yaw +10 Right - YR_R10
+  Yaw +20 Right - YR_R20
+  Yaw +30 Right - YR_R30
+  Yaw +45 Right - YR_R45
+  Yaw +90 Right - YR_R90
+  Yaw -45 Left - YR_L45
+  Yaw -90 Left - YR_L90
+Pitch Rotation: PR
+  Pitch Upwards - PR_U
+  Pitch Slight Upwards - PR_SU
+  Pitch Slight Downwards - PR_SD
+  Pitch Downwards - PR_D
+Cross Rotation: CR
+  Right-Downwards - CR_RD
+  Right-Upwards - CR_RU
+Occlusion: O
+  Eye Occlusion - O_EYE
+  Mouth Occlusion - O_MOUTH
+  Eyeglasses Occlusion - O_GLASSES
+  Hair Occlusion - O_HAIR
+Ignored - IGN
+  Invalid - IGN_INV
